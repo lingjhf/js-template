@@ -14,8 +14,6 @@
   "dependencies": {
   },
   "devDependencies": {
-    "@babel/core": "^7.20.12",
-    "@babel/eslint-parser": "^7.19.1",
     "@rollup/plugin-typescript": "^11.0.0",
     "@types/node": "^16.18.12",
     "@typescript-eslint/eslint-plugin": "^5.51.0",
