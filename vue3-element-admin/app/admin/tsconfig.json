@@ -1,0 +1,18 @@
+{
+  "extends": ["../../tsconfig.json"],
+  "compilerOptions": {
+    "lib": ["ESNext", "DOM"],
+    "types": ["node", "vite/client"],
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  "exclude": ["**/dist/**"],
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.d.ts",
+    "src/**/*.vue",
+    "../../packages/**/src/**/*.vue",
+    "../../packages/**/src/**/*.ts"
+  ]
+}
