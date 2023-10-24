@@ -19,5 +19,6 @@
     ".eslintrc.json",
     "*.config.ts",
     "*-lock.yaml",
-  ]
+  ],
+  "cSpell.ignoreWords": ["pinia"]
 }
