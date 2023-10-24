@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@admin/utils": "workspace:^"
+    "@admin/utils": "workspace:^",
+    "@admin/components": "workspace:^"
   }
 }
