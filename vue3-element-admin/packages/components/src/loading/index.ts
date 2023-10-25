@@ -1,1 +1,1 @@
-export { default as MLoading } from './loading.vue'
+export { default as MProgressLoading } from './progress-loading.vue'

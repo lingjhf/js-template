@@ -101,7 +101,6 @@
       <el-header style='text-align: right; font-size: 12px'>
         <div class='toolbar' />
       </el-header>
-
       <el-main>
         <el-scrollbar>
           <el-table :data='tableData'>
